@@ -20,7 +20,7 @@
 - 허전진 [@zinirun](https://github.com/zinirun)
   - Leader (PM, DevOps, Infra)
 - 조정민 [@Jeongm1n](https://github.com/Jeongm1n)
-  - Backend (Node.js)
+  - Frontend(HTML/CSS/JS) / Backend (Node.js)
 - 이건욱 [@ukunV](https://github.com/ukunV)
   - Frontend (HTML/CSS/JS)
 - 김승준 [@jason4181](https://github.com/jason4181)
